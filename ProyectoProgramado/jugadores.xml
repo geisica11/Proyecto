@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jugadores>
+    <jugador>
+        <nombre>Geisica</nombre>
+        <clave>12345</clave>
+        <puntaje>0</puntaje>
+    </jugador>
+    <jugador>
+        <nombre>Moni</nombre>
+        <clave>12345</clave>
+        <puntaje>0</puntaje>
+    </jugador>
+</jugadores>
